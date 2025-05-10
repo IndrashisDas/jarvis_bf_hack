@@ -1,0 +1,4369 @@
+Loaded 624 shapefiles.
+
+--- Strom ST MS-Freileitungsabschnitt BP Position.shp ---
+File Name: Strom ST MS-Freileitungsabschnitt BP Position.shp
+Path: Strom ST MS-Freileitungsabschnitt BP Position.shp
+Number of features: 823
+Columns: ['XTRID', 'BEMERKUNG', 'BEMESSUNGS', 'BETREIBER', 'BETRIEBSAR', 'BETRIEBSFÜ', 'BETRIEBSSP', 'BETRIEBSS1', 'CS_AUFTRAG', 'EVU_MONTEU', 'EIGENTÜMER', 'ELEKTRISCH', 'FABRIKAT', 'FARBE_SCHA', 'GIS_LEITUN', 'HERKUNFT_V', 'HERSTELLER', 'ID', 'LADESTROM_', 'LEITUNGSBA', 'LEITUNGSBE', 'LOGISCHE_I', 'LÄNGE_3D_P', 'LÄNGE_GIS_', 'LÄNGE_STIL', 'NETZBETREI', 'NETZNAME_2', 'NORMBEZEIC', 'ORT', 'PHASE', 'PÄCHTER', 'QUERSCHNIT', 'SAP_ID', 'STANDORT', 'STATISTIK_', 'STATUS', 'STRECKENBE', 'TN_PRÜFUNG', 'TN_STATUS', 'VERLEGEDAT', 'VERLEGEFIR', 'VERLEGELÄN', 'VERLEGUNG', 'VERLEGUNGS', 'WIPLAN', 'WIDERST__R', 'WIDERST__X', 'WIDERST__Z', 'WIDERST__K', 'BN_STATIST', 'BN_VERLEGU', 'GEPL__ERNE', 'RWO_ID', 'SKIZZE_POI', 'STILLGELEG', 'TEXT_ID', 'TEXT_ID2', 'geometry']
+
+
+--- Strom ST MS-Kabelabschnitt BP Position.shp ---
+File Name: Strom ST MS-Kabelabschnitt BP Position.shp
+Path: Strom ST MS-Kabelabschnitt BP Position.shp
+Number of features: 10484
+Columns: ['XTRID', 'ANFANGSZUS', 'BEMERKUNG', 'BEMESSUNGS', 'BETREIBER', 'BETRIEBSAR', 'BETRIEBSFÜ', 'BETRIEBSSP', 'BETRIEBSS1', 'CS_AUFTRAG', 'EVU_MONTEU', 'EIGENTÜMER', 'EINGEMESSE', 'EINMESSMET', 'ELEKTRISCH', 'ENDZUSCHLA', 'FABRIKAT', 'FARBE_SCHA', 'GIS_LEITUN', 'HERKUNFT_V', 'HERSTELLER', 'ID', 'LADESTROM_', 'LEITUNGSBA', 'LOGISCHE_I', 'LÄNGE_3D_P', 'LÄNGE_GIS_', 'LÄNGE_IN_S', 'LÄNGE_STIL', 'MAX__MS_KA', 'METRIERUNG', 'METRIERUN1', 'NETZBETREI', 'NETZNAME_2', 'NORMBEZEIC', 'PHASE', 'PÄCHTER', 'SAP_ID', 'STANDORT', 'STATISTIK_', 'STATUS', 'STRANG_NR_', 'STRECKENBE', 'TN_PRÜFUNG', 'TN_STATUS', 'TIEFBAUFIR', 'TROMMELBEZ', 'TYP_QUERSC', 'VERLEGEART', 'VERLEGEDAT', 'VERLEGEFIR', 'VERLEGELÄN', 'VERLEGUNG', 'VERLEGUNGS', 'WIPLAN', 'WIDERST__R', 'WIDERST__X', 'WIDERST__Z', 'WIDERST__K', 'BN_STATIST', 'BN_VERLEGU', 'GEPL__ERNE', 'RWO_ID', 'SKIZZE_POI', 'STILLGELEG', 'TEXT_ID', 'TEXT_ID2', 'geometry']
+
+
+--- Strom ST NS-HA-Kasten BP Position.shp ---
+File Name: Strom ST NS-HA-Kasten BP Position.shp
+Path: Strom ST NS-HA-Kasten BP Position.shp
+Number of features: 74473
+Columns: ['XTRID', 'ANSCHLUSSA', 'ANSCHLUSSF', 'ANSCHLUSSN', 'ANSCHLUSST', 'ANTEIL_VER', 'ANZAHL_LAD', 'AUFTRAGS_N', 'AUSFÜHRUNG', 'BN_NICHTAB', 'BEMERKUNG', 'BEMERKUNG_', 'BEMESSUNGS', 'BERECHNETE', 'BERECHNET1', 'BETREIBER', 'BETRIEBSFÜ', 'EVU_MONTEU', 'EIGENTÜMER', 'EINBAUGRUN', 'EINBAUORT', 'ERDUNGSIMP', 'ERDUNGSIM1', 'FABRIKAT', 'GEMEINDE', 'GEMEINDESS', 'GESAMTLEIS', 'HAUSNUMMER', 'HERSTELLER', 'ID', 'LEITUNGSBA', 'LOGISCHE_I', 'MEHRFACHAN', 'NS_HAUSANS', 'NETZBETREI', 'NETZNAME_1', 'NETZNAME_2', 'NICHTABSCH', 'ORTSTEIL', 'PÄCHTER', 'SAP_ID', 'SCHLÜSSEL_', 'SICHERUNG', 'SICHERUNGS', 'STANDORT', 'STATISTIK_', 'STATUS', 'STRAßENNAM', 'STRAßENSCH', 'SUBCODE_BP', 'SUBCODE_ÜP', 'TN_PRÜFUNG', 'TN_STATUS', 'TIEFBAUFIR', 'TYP_QUERSC', 'VERLEGEDAT', 'VERLEGUNG', 'BESTELLTE_', 'BN_STATIST', 'BN_TEXT_ID', 'RWO_ID', 'SKIZZE_POI', 'STILLGELEG', 'TEXT_ID', 'TEXTINFO', 'TEXTINFO2', 'WEITERVERS', 'WEITERVER1', 'geometry']
+
+
+--- nexiga_all.shp ---
+File Name: nexiga_all.shp
+Path: Nexiga Daten/nexiga_all.shp
+Number of features: 75911
+Columns: ['_uid_', 'id', 'v_lfd', 'v_dat_adm', 'v_dat_post', 'kgs44', 'his', 'kgs36', 'kgs22', 'ags', 'kgs22_name', 'kgs8_name', 'plz', 'mplz', 'po_name', 'pot_name', 'str_name', 'hnr', 'hnr_zs', 'hnr_kompl', 'hnr_typ', 'lcew', 'lchh', 'kk_mio', 'kk_kat', 'dskz', 'kk_idx', 'lcgchar', 'lcbjkl', 'lcschicht', 'lcalter', 'lckumw', 'lckpre', 'lckneu', 'lcewb', 'lcewewa', 'lceemob', 'nx_x_etrsu', 'nx_y_etrsu', 'nx_kenn', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_085443_Wagensteig_shp/praesentation.shp
+Number of features: 6499
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_085443_Wagensteig_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_085443_Wagensteig_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_085443_Wagensteig_shp/nutzungFlurstueck.shp
+Number of features: 666
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_085443_Wagensteig_shp/gebaeudeBauwerke.shp
+Number of features: 472
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_085443_Wagensteig_shp/grenzpunkt.shp
+Number of features: 5056
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_085443_Wagensteig_shp/nutzung.shp
+Number of features: 929
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_085443_Wagensteig_shp/flurstueck.shp
+Number of features: 280
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_085675_Niederweiler_shp/praesentation.shp
+Number of features: 16246
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_085675_Niederweiler_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_085675_Niederweiler_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_085675_Niederweiler_shp/nutzungFlurstueck.shp
+Number of features: 2259
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_085675_Niederweiler_shp/gebaeudeBauwerke.shp
+Number of features: 1004
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_085675_Niederweiler_shp/grenzpunkt.shp
+Number of features: 10375
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_085675_Niederweiler_shp/nutzung.shp
+Number of features: 713
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_085675_Niederweiler_shp/flurstueck.shp
+Number of features: 2021
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_085673_Feldberg_shp/praesentation.shp
+Number of features: 22343
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_085673_Feldberg_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_085673_Feldberg_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_085673_Feldberg_shp/nutzungFlurstueck.shp
+Number of features: 3275
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_085673_Feldberg_shp/gebaeudeBauwerke.shp
+Number of features: 650
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_085673_Feldberg_shp/grenzpunkt.shp
+Number of features: 15784
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_085673_Feldberg_shp/nutzung.shp
+Number of features: 713
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_085673_Feldberg_shp/flurstueck.shp
+Number of features: 2999
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_085452_Hofsgrund_shp/praesentation.shp
+Number of features: 4073
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_085452_Hofsgrund_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_085452_Hofsgrund_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_085452_Hofsgrund_shp/nutzungFlurstueck.shp
+Number of features: 600
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_085452_Hofsgrund_shp/gebaeudeBauwerke.shp
+Number of features: 412
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_085452_Hofsgrund_shp/grenzpunkt.shp
+Number of features: 3395
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_085452_Hofsgrund_shp/nutzung.shp
+Number of features: 523
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_085452_Hofsgrund_shp/flurstueck.shp
+Number of features: 365
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_085450_Oberried_shp/praesentation.shp
+Number of features: 9813
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_085450_Oberried_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_085450_Oberried_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_085450_Oberried_shp/nutzungFlurstueck.shp
+Number of features: 1369
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_085450_Oberried_shp/gebaeudeBauwerke.shp
+Number of features: 1132
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_085450_Oberried_shp/grenzpunkt.shp
+Number of features: 7110
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_085450_Oberried_shp/nutzung.shp
+Number of features: 1183
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_085450_Oberried_shp/flurstueck.shp
+Number of features: 773
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_085322_Niederrimsingen_shp/praesentation.shp
+Number of features: 11186
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_085322_Niederrimsingen_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_085322_Niederrimsingen_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_085322_Niederrimsingen_shp/nutzungFlurstueck.shp
+Number of features: 2097
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_085322_Niederrimsingen_shp/gebaeudeBauwerke.shp
+Number of features: 1112
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_085322_Niederrimsingen_shp/grenzpunkt.shp
+Number of features: 7537
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_085322_Niederrimsingen_shp/nutzung.shp
+Number of features: 806
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_085322_Niederrimsingen_shp/flurstueck.shp
+Number of features: 1660
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_085441_Falkensteig_shp/praesentation.shp
+Number of features: 1926
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_085441_Falkensteig_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_085441_Falkensteig_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_085441_Falkensteig_shp/nutzungFlurstueck.shp
+Number of features: 246
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_085441_Falkensteig_shp/gebaeudeBauwerke.shp
+Number of features: 193
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_085441_Falkensteig_shp/grenzpunkt.shp
+Number of features: 1553
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_085441_Falkensteig_shp/nutzung.shp
+Number of features: 321
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_085441_Falkensteig_shp/flurstueck.shp
+Number of features: 116
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_085703_Zienken_shp/praesentation.shp
+Number of features: 6807
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_085703_Zienken_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_085703_Zienken_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_085703_Zienken_shp/nutzungFlurstueck.shp
+Number of features: 910
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_085703_Zienken_shp/gebaeudeBauwerke.shp
+Number of features: 646
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_085703_Zienken_shp/grenzpunkt.shp
+Number of features: 3029
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_085703_Zienken_shp/nutzung.shp
+Number of features: 263
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_085703_Zienken_shp/flurstueck.shp
+Number of features: 829
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_085421_Eschbach_shp/praesentation.shp
+Number of features: 8101
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_085421_Eschbach_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_085421_Eschbach_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_085421_Eschbach_shp/nutzungFlurstueck.shp
+Number of features: 934
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_085421_Eschbach_shp/gebaeudeBauwerke.shp
+Number of features: 788
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_085421_Eschbach_shp/grenzpunkt.shp
+Number of features: 5320
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_085421_Eschbach_shp/nutzung.shp
+Number of features: 1031
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_085421_Eschbach_shp/flurstueck.shp
+Number of features: 435
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_085671_Britzingen_shp/praesentation.shp
+Number of features: 17794
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_085671_Britzingen_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_085671_Britzingen_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_085671_Britzingen_shp/nutzungFlurstueck.shp
+Number of features: 2925
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_085671_Britzingen_shp/gebaeudeBauwerke.shp
+Number of features: 1014
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_085671_Britzingen_shp/grenzpunkt.shp
+Number of features: 12039
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_085671_Britzingen_shp/nutzung.shp
+Number of features: 896
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_085671_Britzingen_shp/flurstueck.shp
+Number of features: 2657
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_085670_Müllheim_shp/praesentation.shp
+Number of features: 54349
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_085670_Müllheim_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_085670_Müllheim_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_085670_Müllheim_shp/nutzungFlurstueck.shp
+Number of features: 6621
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_085670_Müllheim_shp/gebaeudeBauwerke.shp
+Number of features: 6164
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_085670_Müllheim_shp/grenzpunkt.shp
+Number of features: 27197
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_085670_Müllheim_shp/nutzung.shp
+Number of features: 2367
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_085670_Müllheim_shp/flurstueck.shp
+Number of features: 6155
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_085300_Umkirch_shp/praesentation.shp
+Number of features: 16280
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_085300_Umkirch_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_085300_Umkirch_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_085300_Umkirch_shp/nutzungFlurstueck.shp
+Number of features: 2825
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_085300_Umkirch_shp/gebaeudeBauwerke.shp
+Number of features: 2317
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_085300_Umkirch_shp/grenzpunkt.shp
+Number of features: 11023
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_085300_Umkirch_shp/nutzung.shp
+Number of features: 1086
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_085300_Umkirch_shp/flurstueck.shp
+Number of features: 2532
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_085524_Tunsel_shp/praesentation.shp
+Number of features: 18388
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_085524_Tunsel_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_085524_Tunsel_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_085524_Tunsel_shp/nutzungFlurstueck.shp
+Number of features: 2753
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_085524_Tunsel_shp/gebaeudeBauwerke.shp
+Number of features: 1482
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_085524_Tunsel_shp/grenzpunkt.shp
+Number of features: 8768
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_085524_Tunsel_shp/nutzung.shp
+Number of features: 862
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_085524_Tunsel_shp/flurstueck.shp
+Number of features: 2670
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_085521_Biengen_shp/praesentation.shp
+Number of features: 13293
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_085521_Biengen_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_085521_Biengen_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_085521_Biengen_shp/nutzungFlurstueck.shp
+Number of features: 1601
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_085521_Biengen_shp/gebaeudeBauwerke.shp
+Number of features: 1324
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_085521_Biengen_shp/grenzpunkt.shp
+Number of features: 6979
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_085521_Biengen_shp/nutzung.shp
+Number of features: 615
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_085521_Biengen_shp/flurstueck.shp
+Number of features: 1492
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_085550_Heitersheim_shp/praesentation.shp
+Number of features: 30966
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_085550_Heitersheim_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_085550_Heitersheim_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_085550_Heitersheim_shp/nutzungFlurstueck.shp
+Number of features: 3970
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_085550_Heitersheim_shp/gebaeudeBauwerke.shp
+Number of features: 3617
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_085550_Heitersheim_shp/grenzpunkt.shp
+Number of features: 14616
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_085550_Heitersheim_shp/nutzung.shp
+Number of features: 1414
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_085550_Heitersheim_shp/flurstueck.shp
+Number of features: 3705
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_085442_Unteribental_shp/praesentation.shp
+Number of features: 4225
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_085442_Unteribental_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_085442_Unteribental_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_085442_Unteribental_shp/nutzungFlurstueck.shp
+Number of features: 484
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_085442_Unteribental_shp/gebaeudeBauwerke.shp
+Number of features: 558
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_085442_Unteribental_shp/grenzpunkt.shp
+Number of features: 2908
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_085442_Unteribental_shp/nutzung.shp
+Number of features: 455
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_085442_Unteribental_shp/flurstueck.shp
+Number of features: 273
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_085710_Freiburg_shp/praesentation.shp
+Number of features: 289562
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_085710_Freiburg_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_085710_Freiburg_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_085710_Freiburg_shp/nutzungFlurstueck.shp
+Number of features: 31367
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_085710_Freiburg_shp/gebaeudeBauwerke.shp
+Number of features: 48362
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_085710_Freiburg_shp/grenzpunkt.shp
+Number of features: 127070
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_085710_Freiburg_shp/nutzung.shp
+Number of features: 12013
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_085710_Freiburg_shp/flurstueck.shp
+Number of features: 29131
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_085650_Buggingen_shp/praesentation.shp
+Number of features: 27827
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_085650_Buggingen_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_085650_Buggingen_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_085650_Buggingen_shp/nutzungFlurstueck.shp
+Number of features: 3882
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_085650_Buggingen_shp/gebaeudeBauwerke.shp
+Number of features: 2461
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_085650_Buggingen_shp/grenzpunkt.shp
+Number of features: 13499
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_085650_Buggingen_shp/nutzung.shp
+Number of features: 1487
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_085650_Buggingen_shp/flurstueck.shp
+Number of features: 3230
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_085716_Opfingen_shp/praesentation.shp
+Number of features: 37371
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_085716_Opfingen_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_085716_Opfingen_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_085716_Opfingen_shp/nutzungFlurstueck.shp
+Number of features: 4632
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_085716_Opfingen_shp/gebaeudeBauwerke.shp
+Number of features: 2315
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_085716_Opfingen_shp/grenzpunkt.shp
+Number of features: 16129
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_085716_Opfingen_shp/nutzung.shp
+Number of features: 2202
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_085716_Opfingen_shp/flurstueck.shp
+Number of features: 3927
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_086921_Degernau_shp/praesentation.shp
+Number of features: 5421
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_086921_Degernau_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_086921_Degernau_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_086921_Degernau_shp/nutzungFlurstueck.shp
+Number of features: 1090
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_086921_Degernau_shp/gebaeudeBauwerke.shp
+Number of features: 622
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_086921_Degernau_shp/grenzpunkt.shp
+Number of features: 4530
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_086921_Degernau_shp/nutzung.shp
+Number of features: 388
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_086921_Degernau_shp/flurstueck.shp
+Number of features: 949
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_085700_Neuenburg_shp/praesentation.shp
+Number of features: 34826
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_085700_Neuenburg_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_085700_Neuenburg_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_085700_Neuenburg_shp/nutzungFlurstueck.shp
+Number of features: 3847
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_085700_Neuenburg_shp/gebaeudeBauwerke.shp
+Number of features: 5206
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_085700_Neuenburg_shp/grenzpunkt.shp
+Number of features: 14628
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_085700_Neuenburg_shp/nutzung.shp
+Number of features: 1211
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_085700_Neuenburg_shp/flurstueck.shp
+Number of features: 3686
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_085415_Horben_shp/praesentation.shp
+Number of features: 9802
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_085415_Horben_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_085415_Horben_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_085415_Horben_shp/nutzungFlurstueck.shp
+Number of features: 1165
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_085415_Horben_shp/gebaeudeBauwerke.shp
+Number of features: 877
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_085415_Horben_shp/grenzpunkt.shp
+Number of features: 7020
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_085415_Horben_shp/nutzung.shp
+Number of features: 828
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_085415_Horben_shp/flurstueck.shp
+Number of features: 714
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_085470_Langenordnach_shp/praesentation.shp
+Number of features: 5790
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_085470_Langenordnach_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_085470_Langenordnach_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_085470_Langenordnach_shp/nutzungFlurstueck.shp
+Number of features: 384
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_085470_Langenordnach_shp/gebaeudeBauwerke.shp
+Number of features: 235
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_085470_Langenordnach_shp/grenzpunkt.shp
+Number of features: 3883
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_085470_Langenordnach_shp/nutzung.shp
+Number of features: 355
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_085470_Langenordnach_shp/flurstueck.shp
+Number of features: 175
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_085380_Ebringen_shp/praesentation.shp
+Number of features: 20796
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_085380_Ebringen_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_085380_Ebringen_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_085380_Ebringen_shp/nutzungFlurstueck.shp
+Number of features: 3283
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_085380_Ebringen_shp/gebaeudeBauwerke.shp
+Number of features: 1818
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_085380_Ebringen_shp/grenzpunkt.shp
+Number of features: 13108
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_085380_Ebringen_shp/nutzung.shp
+Number of features: 1063
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_085380_Ebringen_shp/flurstueck.shp
+Number of features: 2904
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_085530_Hartheim_shp/praesentation.shp
+Number of features: 15419
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_085530_Hartheim_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_085530_Hartheim_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_085530_Hartheim_shp/nutzungFlurstueck.shp
+Number of features: 1724
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_085530_Hartheim_shp/gebaeudeBauwerke.shp
+Number of features: 1974
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_085530_Hartheim_shp/grenzpunkt.shp
+Number of features: 6371
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_085530_Hartheim_shp/nutzung.shp
+Number of features: 613
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_085530_Hartheim_shp/flurstueck.shp
+Number of features: 1639
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_085471_Neustadt_shp/praesentation.shp
+Number of features: 31786
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_085471_Neustadt_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_085471_Neustadt_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_085471_Neustadt_shp/nutzungFlurstueck.shp
+Number of features: 3299
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_085471_Neustadt_shp/gebaeudeBauwerke.shp
+Number of features: 3913
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_085471_Neustadt_shp/grenzpunkt.shp
+Number of features: 17526
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_085471_Neustadt_shp/nutzung.shp
+Number of features: 1558
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_085471_Neustadt_shp/flurstueck.shp
+Number of features: 2876
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_085060_Weisweil_shp/praesentation.shp
+Number of features: 23559
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_085060_Weisweil_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_085060_Weisweil_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_085060_Weisweil_shp/nutzungFlurstueck.shp
+Number of features: 3421
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_085060_Weisweil_shp/gebaeudeBauwerke.shp
+Number of features: 2135
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_085060_Weisweil_shp/grenzpunkt.shp
+Number of features: 14017
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_085060_Weisweil_shp/nutzung.shp
+Number of features: 1254
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_085060_Weisweil_shp/flurstueck.shp
+Number of features: 2965
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_085285_Gottenheim_shp/praesentation.shp
+Number of features: 27434
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_085285_Gottenheim_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_085285_Gottenheim_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_085285_Gottenheim_shp/nutzungFlurstueck.shp
+Number of features: 5628
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_085285_Gottenheim_shp/gebaeudeBauwerke.shp
+Number of features: 2095
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_085285_Gottenheim_shp/grenzpunkt.shp
+Number of features: 18564
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_085285_Gottenheim_shp/nutzung.shp
+Number of features: 1603
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_085285_Gottenheim_shp/flurstueck.shp
+Number of features: 4319
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_085714_Lehen_shp/praesentation.shp
+Number of features: 19304
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_085714_Lehen_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_085714_Lehen_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_085714_Lehen_shp/nutzungFlurstueck.shp
+Number of features: 2567
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_085714_Lehen_shp/gebaeudeBauwerke.shp
+Number of features: 1377
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_085714_Lehen_shp/grenzpunkt.shp
+Number of features: 9520
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_085714_Lehen_shp/nutzung.shp
+Number of features: 1059
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_085714_Lehen_shp/flurstueck.shp
+Number of features: 2141
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_085570_Staufen_shp/praesentation.shp
+Number of features: 29112
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_085570_Staufen_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_085570_Staufen_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_085570_Staufen_shp/nutzungFlurstueck.shp
+Number of features: 3506
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_085570_Staufen_shp/gebaeudeBauwerke.shp
+Number of features: 3287
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_085570_Staufen_shp/grenzpunkt.shp
+Number of features: 15325
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_085570_Staufen_shp/nutzung.shp
+Number of features: 1406
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_085570_Staufen_shp/flurstueck.shp
+Number of features: 3187
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_086905_Oberlauchringen_shp/praesentation.shp
+Number of features: 14193
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_086905_Oberlauchringen_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_086905_Oberlauchringen_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_086905_Oberlauchringen_shp/nutzungFlurstueck.shp
+Number of features: 2348
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_086905_Oberlauchringen_shp/gebaeudeBauwerke.shp
+Number of features: 2139
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_086905_Oberlauchringen_shp/grenzpunkt.shp
+Number of features: 10748
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_086905_Oberlauchringen_shp/nutzung.shp
+Number of features: 961
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_086905_Oberlauchringen_shp/flurstueck.shp
+Number of features: 2161
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_085551_Gallenweiler_shp/praesentation.shp
+Number of features: 4652
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_085551_Gallenweiler_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_085551_Gallenweiler_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_085551_Gallenweiler_shp/nutzungFlurstueck.shp
+Number of features: 567
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_085551_Gallenweiler_shp/gebaeudeBauwerke.shp
+Number of features: 365
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_085551_Gallenweiler_shp/grenzpunkt.shp
+Number of features: 2395
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_085551_Gallenweiler_shp/nutzung.shp
+Number of features: 196
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_085551_Gallenweiler_shp/flurstueck.shp
+Number of features: 537
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_085711_Ebnet_shp/praesentation.shp
+Number of features: 10916
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_085711_Ebnet_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_085711_Ebnet_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_085711_Ebnet_shp/nutzungFlurstueck.shp
+Number of features: 1257
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_085711_Ebnet_shp/gebaeudeBauwerke.shp
+Number of features: 1072
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_085711_Ebnet_shp/grenzpunkt.shp
+Number of features: 5670
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_085711_Ebnet_shp/nutzung.shp
+Number of features: 717
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_085711_Ebnet_shp/flurstueck.shp
+Number of features: 1033
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_086906_Unterlauchringen_shp/praesentation.shp
+Number of features: 15420
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_086906_Unterlauchringen_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_086906_Unterlauchringen_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_086906_Unterlauchringen_shp/nutzungFlurstueck.shp
+Number of features: 1999
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_086906_Unterlauchringen_shp/gebaeudeBauwerke.shp
+Number of features: 2930
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_086906_Unterlauchringen_shp/grenzpunkt.shp
+Number of features: 7527
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_086906_Unterlauchringen_shp/nutzung.shp
+Number of features: 708
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_086906_Unterlauchringen_shp/flurstueck.shp
+Number of features: 1887
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_085320_Breisach_shp/praesentation.shp
+Number of features: 40896
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_085320_Breisach_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_085320_Breisach_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_085320_Breisach_shp/nutzungFlurstueck.shp
+Number of features: 5930
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_085320_Breisach_shp/gebaeudeBauwerke.shp
+Number of features: 5664
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_085320_Breisach_shp/grenzpunkt.shp
+Number of features: 22856
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_085320_Breisach_shp/nutzung.shp
+Number of features: 2014
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_085320_Breisach_shp/flurstueck.shp
+Number of features: 5502
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_085323_Oberrimsingen_shp/praesentation.shp
+Number of features: 14267
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_085323_Oberrimsingen_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_085323_Oberrimsingen_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_085323_Oberrimsingen_shp/nutzungFlurstueck.shp
+Number of features: 2450
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_085323_Oberrimsingen_shp/gebaeudeBauwerke.shp
+Number of features: 1472
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_085323_Oberrimsingen_shp/grenzpunkt.shp
+Number of features: 10255
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_085323_Oberrimsingen_shp/nutzung.shp
+Number of features: 838
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_085323_Oberrimsingen_shp/flurstueck.shp
+Number of features: 2007
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_085473_Schwärzenbach_shp/praesentation.shp
+Number of features: 5786
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_085473_Schwärzenbach_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_085473_Schwärzenbach_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_085473_Schwärzenbach_shp/nutzungFlurstueck.shp
+Number of features: 475
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_085473_Schwärzenbach_shp/gebaeudeBauwerke.shp
+Number of features: 321
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_085473_Schwärzenbach_shp/grenzpunkt.shp
+Number of features: 2882
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_085473_Schwärzenbach_shp/nutzung.shp
+Number of features: 472
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_085473_Schwärzenbach_shp/flurstueck.shp
+Number of features: 204
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_085330_Merdingen_shp/praesentation.shp
+Number of features: 28845
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_085330_Merdingen_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_085330_Merdingen_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_085330_Merdingen_shp/nutzungFlurstueck.shp
+Number of features: 6427
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_085330_Merdingen_shp/gebaeudeBauwerke.shp
+Number of features: 2189
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_085330_Merdingen_shp/grenzpunkt.shp
+Number of features: 23215
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_085330_Merdingen_shp/nutzung.shp
+Number of features: 2214
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_085330_Merdingen_shp/flurstueck.shp
+Number of features: 5604
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_085472_Rudenberg_shp/praesentation.shp
+Number of features: 3484
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_085472_Rudenberg_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_085472_Rudenberg_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_085472_Rudenberg_shp/nutzungFlurstueck.shp
+Number of features: 299
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_085472_Rudenberg_shp/gebaeudeBauwerke.shp
+Number of features: 165
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_085472_Rudenberg_shp/grenzpunkt.shp
+Number of features: 1737
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_085472_Rudenberg_shp/nutzung.shp
+Number of features: 275
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_085472_Rudenberg_shp/flurstueck.shp
+Number of features: 136
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_086922_Horheim_shp/praesentation.shp
+Number of features: 9670
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_086922_Horheim_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_086922_Horheim_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_086922_Horheim_shp/nutzungFlurstueck.shp
+Number of features: 1668
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_086922_Horheim_shp/gebaeudeBauwerke.shp
+Number of features: 1401
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_086922_Horheim_shp/grenzpunkt.shp
+Number of features: 6690
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_086922_Horheim_shp/nutzung.shp
+Number of features: 752
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_086922_Horheim_shp/flurstueck.shp
+Number of features: 1461
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_085400_Au_shp/praesentation.shp
+Number of features: 8938
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_085400_Au_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_085400_Au_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_085400_Au_shp/nutzungFlurstueck.shp
+Number of features: 992
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_085400_Au_shp/gebaeudeBauwerke.shp
+Number of features: 924
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_085400_Au_shp/grenzpunkt.shp
+Number of features: 4978
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_085400_Au_shp/nutzung.shp
+Number of features: 494
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_085400_Au_shp/flurstueck.shp
+Number of features: 804
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_085531_Bremgarten_shp/praesentation.shp
+Number of features: 10883
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_085531_Bremgarten_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_085531_Bremgarten_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_085531_Bremgarten_shp/nutzungFlurstueck.shp
+Number of features: 1395
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_085531_Bremgarten_shp/gebaeudeBauwerke.shp
+Number of features: 995
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_085531_Bremgarten_shp/grenzpunkt.shp
+Number of features: 4984
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_085531_Bremgarten_shp/nutzung.shp
+Number of features: 591
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_085531_Bremgarten_shp/flurstueck.shp
+Number of features: 1315
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_085385_Pfaffenweiler_shp/praesentation.shp
+Number of features: 16620
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_085385_Pfaffenweiler_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_085385_Pfaffenweiler_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_085385_Pfaffenweiler_shp/nutzungFlurstueck.shp
+Number of features: 3106
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_085385_Pfaffenweiler_shp/gebaeudeBauwerke.shp
+Number of features: 1688
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_085385_Pfaffenweiler_shp/grenzpunkt.shp
+Number of features: 10867
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_085385_Pfaffenweiler_shp/nutzung.shp
+Number of features: 812
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_085385_Pfaffenweiler_shp/flurstueck.shp
+Number of features: 3004
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_085453_Zastler_shp/praesentation.shp
+Number of features: 2487
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_085453_Zastler_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_085453_Zastler_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_085453_Zastler_shp/nutzungFlurstueck.shp
+Number of features: 302
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_085453_Zastler_shp/gebaeudeBauwerke.shp
+Number of features: 285
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_085453_Zastler_shp/grenzpunkt.shp
+Number of features: 2973
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_085453_Zastler_shp/nutzung.shp
+Number of features: 325
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_085453_Zastler_shp/flurstueck.shp
+Number of features: 191
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_086924_Schwerzen_shp/praesentation.shp
+Number of features: 6159
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_086924_Schwerzen_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_086924_Schwerzen_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_086924_Schwerzen_shp/nutzungFlurstueck.shp
+Number of features: 1171
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_086924_Schwerzen_shp/gebaeudeBauwerke.shp
+Number of features: 933
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_086924_Schwerzen_shp/grenzpunkt.shp
+Number of features: 5029
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_086924_Schwerzen_shp/nutzung.shp
+Number of features: 495
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_086924_Schwerzen_shp/flurstueck.shp
+Number of features: 997
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_085390_Merzhausen_shp/praesentation.shp
+Number of features: 13752
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_085390_Merzhausen_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_085390_Merzhausen_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_085390_Merzhausen_shp/nutzungFlurstueck.shp
+Number of features: 1805
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_085390_Merzhausen_shp/gebaeudeBauwerke.shp
+Number of features: 2065
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_085390_Merzhausen_shp/grenzpunkt.shp
+Number of features: 6887
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_085390_Merzhausen_shp/nutzung.shp
+Number of features: 660
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_085390_Merzhausen_shp/flurstueck.shp
+Number of features: 1658
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_085422_Wittental_shp/praesentation.shp
+Number of features: 4556
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_085422_Wittental_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_085422_Wittental_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_085422_Wittental_shp/nutzungFlurstueck.shp
+Number of features: 553
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_085422_Wittental_shp/gebaeudeBauwerke.shp
+Number of features: 287
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_085422_Wittental_shp/grenzpunkt.shp
+Number of features: 3690
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_085422_Wittental_shp/nutzung.shp
+Number of features: 400
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_085422_Wittental_shp/flurstueck.shp
+Number of features: 323
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_085718_Waltershofen_shp/praesentation.shp
+Number of features: 26499
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_085718_Waltershofen_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_085718_Waltershofen_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_085718_Waltershofen_shp/nutzungFlurstueck.shp
+Number of features: 4229
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_085718_Waltershofen_shp/gebaeudeBauwerke.shp
+Number of features: 1428
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_085718_Waltershofen_shp/grenzpunkt.shp
+Number of features: 13885
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_085718_Waltershofen_shp/nutzung.shp
+Number of features: 1686
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_085718_Waltershofen_shp/flurstueck.shp
+Number of features: 3421
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_085651_Seefelden_shp/praesentation.shp
+Number of features: 16626
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_085651_Seefelden_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_085651_Seefelden_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_085651_Seefelden_shp/nutzungFlurstueck.shp
+Number of features: 2431
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_085651_Seefelden_shp/gebaeudeBauwerke.shp
+Number of features: 1116
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_085651_Seefelden_shp/grenzpunkt.shp
+Number of features: 8185
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_085651_Seefelden_shp/nutzung.shp
+Number of features: 937
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_085651_Seefelden_shp/flurstueck.shp
+Number of features: 2029
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_085474_Titisee_shp/praesentation.shp
+Number of features: 22449
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_085474_Titisee_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_085474_Titisee_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_085474_Titisee_shp/nutzungFlurstueck.shp
+Number of features: 2082
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_085474_Titisee_shp/gebaeudeBauwerke.shp
+Number of features: 1875
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_085474_Titisee_shp/grenzpunkt.shp
+Number of features: 13065
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_085474_Titisee_shp/nutzung.shp
+Number of features: 1620
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_085474_Titisee_shp/flurstueck.shp
+Number of features: 1213
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_085672_Dattingen_shp/praesentation.shp
+Number of features: 11549
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_085672_Dattingen_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_085672_Dattingen_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_085672_Dattingen_shp/nutzungFlurstueck.shp
+Number of features: 1730
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_085672_Dattingen_shp/gebaeudeBauwerke.shp
+Number of features: 394
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_085672_Dattingen_shp/grenzpunkt.shp
+Number of features: 6356
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_085672_Dattingen_shp/nutzung.shp
+Number of features: 805
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_085672_Dattingen_shp/flurstueck.shp
+Number of features: 1564
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_085717_Tiengen_shp/praesentation.shp
+Number of features: 21655
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_085717_Tiengen_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_085717_Tiengen_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_085717_Tiengen_shp/nutzungFlurstueck.shp
+Number of features: 2611
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_085717_Tiengen_shp/gebaeudeBauwerke.shp
+Number of features: 1761
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_085717_Tiengen_shp/grenzpunkt.shp
+Number of features: 9640
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_085717_Tiengen_shp/nutzung.shp
+Number of features: 1340
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_085717_Tiengen_shp/flurstueck.shp
+Number of features: 2359
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_085676_Vögisheim_shp/praesentation.shp
+Number of features: 10388
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_085676_Vögisheim_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_085676_Vögisheim_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_085676_Vögisheim_shp/nutzungFlurstueck.shp
+Number of features: 1388
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_085676_Vögisheim_shp/gebaeudeBauwerke.shp
+Number of features: 826
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_085676_Vögisheim_shp/grenzpunkt.shp
+Number of features: 5982
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_085676_Vögisheim_shp/nutzung.shp
+Number of features: 357
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_085676_Vögisheim_shp/flurstueck.shp
+Number of features: 1337
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_086923_Ofteringen_shp/praesentation.shp
+Number of features: 2501
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_086923_Ofteringen_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_086923_Ofteringen_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_086923_Ofteringen_shp/nutzungFlurstueck.shp
+Number of features: 591
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_086923_Ofteringen_shp/gebaeudeBauwerke.shp
+Number of features: 272
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_086923_Ofteringen_shp/grenzpunkt.shp
+Number of features: 2875
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_086923_Ofteringen_shp/nutzung.shp
+Number of features: 197
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_086923_Ofteringen_shp/flurstueck.shp
+Number of features: 525
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_085311_Wasenweiler_shp/praesentation.shp
+Number of features: 17833
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_085311_Wasenweiler_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_085311_Wasenweiler_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_085311_Wasenweiler_shp/nutzungFlurstueck.shp
+Number of features: 4583
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_085311_Wasenweiler_shp/gebaeudeBauwerke.shp
+Number of features: 869
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_085311_Wasenweiler_shp/grenzpunkt.shp
+Number of features: 15133
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_085311_Wasenweiler_shp/nutzung.shp
+Number of features: 1688
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_085311_Wasenweiler_shp/flurstueck.shp
+Number of features: 3114
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_085475_Waldau_shp/praesentation.shp
+Number of features: 5123
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_085475_Waldau_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_085475_Waldau_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_085475_Waldau_shp/nutzungFlurstueck.shp
+Number of features: 472
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_085475_Waldau_shp/gebaeudeBauwerke.shp
+Number of features: 348
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_085475_Waldau_shp/grenzpunkt.shp
+Number of features: 2827
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_085475_Waldau_shp/nutzung.shp
+Number of features: 393
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_085475_Waldau_shp/flurstueck.shp
+Number of features: 235
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_085420_Stegen_shp/praesentation.shp
+Number of features: 10951
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_085420_Stegen_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_085420_Stegen_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_085420_Stegen_shp/nutzungFlurstueck.shp
+Number of features: 1316
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_085420_Stegen_shp/gebaeudeBauwerke.shp
+Number of features: 1520
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_085420_Stegen_shp/grenzpunkt.shp
+Number of features: 5985
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_085420_Stegen_shp/nutzung.shp
+Number of features: 642
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_085420_Stegen_shp/flurstueck.shp
+Number of features: 1099
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_085702_Steinenstadt_shp/praesentation.shp
+Number of features: 11848
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_085702_Steinenstadt_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_085702_Steinenstadt_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_085702_Steinenstadt_shp/nutzungFlurstueck.shp
+Number of features: 1327
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_085702_Steinenstadt_shp/gebaeudeBauwerke.shp
+Number of features: 1332
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_085702_Steinenstadt_shp/grenzpunkt.shp
+Number of features: 5227
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_085702_Steinenstadt_shp/nutzung.shp
+Number of features: 535
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_085702_Steinenstadt_shp/flurstueck.shp
+Number of features: 1232
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_085451_St. Wilhelm_shp/praesentation.shp
+Number of features: 3213
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_085451_St. Wilhelm_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_085451_St. Wilhelm_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_085451_St. Wilhelm_shp/nutzungFlurstueck.shp
+Number of features: 608
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_085451_St. Wilhelm_shp/gebaeudeBauwerke.shp
+Number of features: 208
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_085451_St. Wilhelm_shp/grenzpunkt.shp
+Number of features: 4377
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_085451_St. Wilhelm_shp/nutzung.shp
+Number of features: 537
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_085451_St. Wilhelm_shp/flurstueck.shp
+Number of features: 325
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_085713_Kappel_shp/praesentation.shp
+Number of features: 13405
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_085713_Kappel_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_085713_Kappel_shp/verwaltungseinheit.shp
+Number of features: 5
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_085713_Kappel_shp/nutzungFlurstueck.shp
+Number of features: 1316
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_085713_Kappel_shp/gebaeudeBauwerke.shp
+Number of features: 1400
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_085713_Kappel_shp/grenzpunkt.shp
+Number of features: 6196
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_085713_Kappel_shp/nutzung.shp
+Number of features: 762
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_085713_Kappel_shp/flurstueck.shp
+Number of features: 1028
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_085360_St. Peter_shp/praesentation.shp
+Number of features: 22978
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_085360_St. Peter_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_085360_St. Peter_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_085360_St. Peter_shp/nutzungFlurstueck.shp
+Number of features: 2347
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_085360_St. Peter_shp/gebaeudeBauwerke.shp
+Number of features: 1915
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_085360_St. Peter_shp/grenzpunkt.shp
+Number of features: 12537
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_085360_St. Peter_shp/nutzung.shp
+Number of features: 2415
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_085360_St. Peter_shp/flurstueck.shp
+Number of features: 1141
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_085677_Zunzingen_shp/praesentation.shp
+Number of features: 5926
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_085677_Zunzingen_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_085677_Zunzingen_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_085677_Zunzingen_shp/nutzungFlurstueck.shp
+Number of features: 843
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_085677_Zunzingen_shp/gebaeudeBauwerke.shp
+Number of features: 265
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_085677_Zunzingen_shp/grenzpunkt.shp
+Number of features: 3966
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_085677_Zunzingen_shp/nutzung.shp
+Number of features: 338
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_085677_Zunzingen_shp/flurstueck.shp
+Number of features: 736
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_085321_Gündlingen_shp/praesentation.shp
+Number of features: 15437
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_085321_Gündlingen_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_085321_Gündlingen_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_085321_Gündlingen_shp/nutzungFlurstueck.shp
+Number of features: 2442
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_085321_Gündlingen_shp/gebaeudeBauwerke.shp
+Number of features: 1458
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_085321_Gündlingen_shp/grenzpunkt.shp
+Number of features: 10012
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_085321_Gündlingen_shp/nutzung.shp
+Number of features: 725
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_085321_Gündlingen_shp/flurstueck.shp
+Number of features: 2111
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_085532_Feldkirch_shp/praesentation.shp
+Number of features: 6582
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_085532_Feldkirch_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_085532_Feldkirch_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_085532_Feldkirch_shp/nutzungFlurstueck.shp
+Number of features: 791
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_085532_Feldkirch_shp/gebaeudeBauwerke.shp
+Number of features: 696
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_085532_Feldkirch_shp/grenzpunkt.shp
+Number of features: 2962
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_085532_Feldkirch_shp/nutzung.shp
+Number of features: 342
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_085532_Feldkirch_shp/flurstueck.shp
+Number of features: 738
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_085310_Ihringen_shp/praesentation.shp
+Number of features: 66258
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_085310_Ihringen_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_085310_Ihringen_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_085310_Ihringen_shp/nutzungFlurstueck.shp
+Number of features: 14586
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_085310_Ihringen_shp/gebaeudeBauwerke.shp
+Number of features: 3671
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_085310_Ihringen_shp/grenzpunkt.shp
+Number of features: 53565
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_085310_Ihringen_shp/nutzung.shp
+Number of features: 4907
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_085310_Ihringen_shp/flurstueck.shp
+Number of features: 10392
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_085674_Hügelheim_shp/praesentation.shp
+Number of features: 12579
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_085674_Hügelheim_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_085674_Hügelheim_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_085674_Hügelheim_shp/nutzungFlurstueck.shp
+Number of features: 1714
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_085674_Hügelheim_shp/gebaeudeBauwerke.shp
+Number of features: 1095
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_085674_Hügelheim_shp/grenzpunkt.shp
+Number of features: 6386
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_085674_Hügelheim_shp/nutzung.shp
+Number of features: 655
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_085674_Hügelheim_shp/flurstueck.shp
+Number of features: 1523
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_085701_Grißheim_shp/praesentation.shp
+Number of features: 15596
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_085701_Grißheim_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_085701_Grißheim_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_085701_Grißheim_shp/nutzungFlurstueck.shp
+Number of features: 1905
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_085701_Grißheim_shp/gebaeudeBauwerke.shp
+Number of features: 1451
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_085701_Grißheim_shp/grenzpunkt.shp
+Number of features: 7284
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_085701_Grißheim_shp/nutzung.shp
+Number of features: 647
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_085701_Grißheim_shp/flurstueck.shp
+Number of features: 1798
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_085520_Krozingen_shp/praesentation.shp
+Number of features: 46792
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_085520_Krozingen_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_085520_Krozingen_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_085520_Krozingen_shp/nutzungFlurstueck.shp
+Number of features: 6210
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_085520_Krozingen_shp/gebaeudeBauwerke.shp
+Number of features: 5101
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_085520_Krozingen_shp/grenzpunkt.shp
+Number of features: 24805
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_085520_Krozingen_shp/nutzung.shp
+Number of features: 1702
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_085520_Krozingen_shp/flurstueck.shp
+Number of features: 5912
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_085523_Schlatt_shp/praesentation.shp
+Number of features: 10671
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_085523_Schlatt_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_085523_Schlatt_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_085523_Schlatt_shp/nutzungFlurstueck.shp
+Number of features: 1688
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_085523_Schlatt_shp/gebaeudeBauwerke.shp
+Number of features: 812
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_085523_Schlatt_shp/grenzpunkt.shp
+Number of features: 5419
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_085523_Schlatt_shp/nutzung.shp
+Number of features: 539
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_085523_Schlatt_shp/flurstueck.shp
+Number of features: 1439
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_085540_Eschbach_shp/praesentation.shp
+Number of features: 17752
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_085540_Eschbach_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_085540_Eschbach_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_085540_Eschbach_shp/nutzungFlurstueck.shp
+Number of features: 2416
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_085540_Eschbach_shp/gebaeudeBauwerke.shp
+Number of features: 1953
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_085540_Eschbach_shp/grenzpunkt.shp
+Number of features: 8211
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_085540_Eschbach_shp/nutzung.shp
+Number of features: 775
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_085540_Eschbach_shp/flurstueck.shp
+Number of features: 2330
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_085522_Hausen_shp/praesentation.shp
+Number of features: 10325
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_085522_Hausen_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_085522_Hausen_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_085522_Hausen_shp/nutzungFlurstueck.shp
+Number of features: 1309
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_085522_Hausen_shp/gebaeudeBauwerke.shp
+Number of features: 1122
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_085522_Hausen_shp/grenzpunkt.shp
+Number of features: 4836
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_085522_Hausen_shp/nutzung.shp
+Number of features: 517
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_085522_Hausen_shp/flurstueck.shp
+Number of features: 1285
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_085440_Buchenbach_shp/praesentation.shp
+Number of features: 8659
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_085440_Buchenbach_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_085440_Buchenbach_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_085440_Buchenbach_shp/nutzungFlurstueck.shp
+Number of features: 955
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_085440_Buchenbach_shp/gebaeudeBauwerke.shp
+Number of features: 1099
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_085440_Buchenbach_shp/grenzpunkt.shp
+Number of features: 4870
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_085440_Buchenbach_shp/nutzung.shp
+Number of features: 609
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_085440_Buchenbach_shp/flurstueck.shp
+Number of features: 712
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_085572_Wettelbrunn_shp/praesentation.shp
+Number of features: 6929
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_085572_Wettelbrunn_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_085572_Wettelbrunn_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_085572_Wettelbrunn_shp/nutzungFlurstueck.shp
+Number of features: 801
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_085572_Wettelbrunn_shp/gebaeudeBauwerke.shp
+Number of features: 596
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_085572_Wettelbrunn_shp/grenzpunkt.shp
+Number of features: 3682
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_085572_Wettelbrunn_shp/nutzung.shp
+Number of features: 352
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_085572_Wettelbrunn_shp/flurstueck.shp
+Number of features: 754
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_085712_Hochdorf_shp/praesentation.shp
+Number of features: 23670
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_085712_Hochdorf_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_085712_Hochdorf_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_085712_Hochdorf_shp/nutzungFlurstueck.shp
+Number of features: 2900
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_085712_Hochdorf_shp/gebaeudeBauwerke.shp
+Number of features: 2540
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_085712_Hochdorf_shp/grenzpunkt.shp
+Number of features: 9524
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_085712_Hochdorf_shp/nutzung.shp
+Number of features: 1113
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_085712_Hochdorf_shp/flurstueck.shp
+Number of features: 2655
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_085571_Grunern_shp/praesentation.shp
+Number of features: 10911
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_085571_Grunern_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_085571_Grunern_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_085571_Grunern_shp/nutzungFlurstueck.shp
+Number of features: 1431
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_085571_Grunern_shp/gebaeudeBauwerke.shp
+Number of features: 955
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_085571_Grunern_shp/grenzpunkt.shp
+Number of features: 6845
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_085571_Grunern_shp/nutzung.shp
+Number of features: 674
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_085571_Grunern_shp/flurstueck.shp
+Number of features: 1286
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_085715_Munzingen_shp/praesentation.shp
+Number of features: 23918
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_085715_Munzingen_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_085715_Munzingen_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_085715_Munzingen_shp/nutzungFlurstueck.shp
+Number of features: 3092
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_085715_Munzingen_shp/gebaeudeBauwerke.shp
+Number of features: 1603
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_085715_Munzingen_shp/grenzpunkt.shp
+Number of features: 10069
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_085715_Munzingen_shp/nutzung.shp
+Number of features: 1622
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_085715_Munzingen_shp/flurstueck.shp
+Number of features: 2574
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- praesentation.shp ---
+File Name: praesentation.shp
+Path: ALKIS/ALKIS-oE_086920_Wutöschingen_shp/praesentation.shp
+Number of features: 9403
+Columns: ['id', 'beginn', 'modellart', 'srs', 'schriftinh', 'fontSperru', 'horizontal', 'vertikal', 'signaturnr', 'darstellun', 'art', 'drehwinkel', 'skalierung', 'dientZurDa', 'geometry']
+
+
+--- katasterBezirk.shp ---
+File Name: katasterBezirk.shp
+Path: ALKIS/ALKIS-oE_086920_Wutöschingen_shp/katasterBezirk.shp
+Number of features: 2
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'gemeinde', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- verwaltungseinheit.shp ---
+File Name: verwaltungseinheit.shp
+Path: ALKIS/ALKIS-oE_086920_Wutöschingen_shp/verwaltungseinheit.shp
+Number of features: 4
+Columns: ['oid', 'aktualit', 'art', 'name', 'schluessel', 'uebobjekt', 'ueboname', 'geometry']
+
+
+--- nutzungFlurstueck.shp ---
+File Name: nutzungFlurstueck.shp
+Path: ALKIS/ALKIS-oE_086920_Wutöschingen_shp/nutzungFlurstueck.shp
+Number of features: 1569
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'flaeche', 'flstkennz', 'geometry']
+
+
+--- gebaeudeBauwerke.shp ---
+File Name: gebaeudeBauwerke.shp
+Path: ALKIS/ALKIS-oE_086920_Wutöschingen_shp/gebaeudeBauwerke.shp
+Number of features: 1615
+Columns: ['oid', 'aktualit', 'gebnutzbez', 'funktion', 'fktkurz', 'name', 'anzahlgs', 'lagebeztxt', 'geometry']
+
+
+--- grenzpunkt.shp ---
+File Name: grenzpunkt.shp
+Path: ALKIS/ALKIS-oE_086920_Wutöschingen_shp/grenzpunkt.shp
+Number of features: 6677
+Columns: ['oid', 'aktualit', 'punktnr', 'abmarkung', 'rel_hoehe', 'landesgp', 'abm_stelle', 'sonstigeig', 'genauigk', 'geometry']
+
+
+--- nutzung.shp ---
+File Name: nutzung.shp
+Path: ALKIS/ALKIS-oE_086920_Wutöschingen_shp/nutzung.shp
+Number of features: 679
+Columns: ['oid', 'aktualit', 'nutzart', 'bez', 'name', 'geometry']
+
+
+--- flurstueck.shp ---
+File Name: flurstueck.shp
+Path: ALKIS/ALKIS-oE_086920_Wutöschingen_shp/flurstueck.shp
+Number of features: 1426
+Columns: ['oid', 'aktualit', 'idflurst', 'flaeche', 'flstkennz', 'land', 'gemarkung', 'flur', 'flurstnr', 'gmdschl', 'regbezirk', 'kreis', 'gemeinde', 'lagebeztxt', 'tntxt', 'geometry']
+
+
+--- Solarpotenziale_Dachseiten_Freiburg_Stadt.shp ---
+File Name: Solarpotenziale_Dachseiten_Freiburg_Stadt.shp
+Path: Solarpotenzial/8311_Solarpotenzial_Dachseiten_Freiburg_Stadt/Solarpotenziale_Dachseiten_Freiburg_Stadt.shp
+Number of features: 105166
+Columns: ['OBJECTID', 'BuildingID', 'RoofID', 'Slope', 'Aspect', 'RoofType', 'Power', 'Eignung', 'Aufstd', 'Geplex_Dac', 'PvArea', 'ErtKwP_K', 'ErtKwP_KA', 'ErtKwhaK', 'ErtKwhaKA', 'PercentMs', 'PercentMsA', 'Schatten', 'SchattenA', 'CO2Savings', 'Yield', 'ModuleCoun', 'Irradiatio', 'Area3D', 'GEMEINDE_N', 'LANGNAME', 'KREIS_NR', 'KREIS', 'ElevationS', 'JAHR', 'HERKUNFT', 'Shape_Leng', 'Shape_Area', 'geometry']
+
+
+--- Solarpotenziale_Dachseiten_LK_Emmendingen.shp ---
+File Name: Solarpotenziale_Dachseiten_LK_Emmendingen.shp
+Path: Solarpotenzial/8316_Solarpotenzial_Dachseiten_Emmendingen/Solarpotenziale_Dachseiten_LK_Emmendingen.shp
+Number of features: 175576
+Columns: ['OBJECTID', 'BuildingID', 'RoofID', 'Slope', 'Aspect', 'RoofType', 'Power', 'Eignung', 'Aufstd', 'Geplex_Dac', 'PvArea', 'ErtKwP_K', 'ErtKwP_KA', 'ErtKwhaK', 'ErtKwhaKA', 'PercentMs', 'PercentMsA', 'Schatten', 'SchattenA', 'CO2Savings', 'Yield', 'ModuleCoun', 'Irradiatio', 'Area3D', 'GEMEINDE_N', 'LANGNAME', 'KREIS_NR', 'KREIS', 'ElevationS', 'JAHR', 'HERKUNFT', 'Shape_Leng', 'Shape_Area', 'geometry']
+
+
+--- Solarpotenziale_Dachseiten_LK_Waldshut.shp ---
+File Name: Solarpotenziale_Dachseiten_LK_Waldshut.shp
+Path: Solarpotenzial/8337_Solarpotenzial_Dachseiten_Waldshut/Solarpotenziale_Dachseiten_LK_Waldshut.shp
+Number of features: 197956
+Columns: ['OBJECTID', 'BuildingID', 'RoofID', 'Slope', 'Aspect', 'RoofType', 'Power', 'Eignung', 'Aufstd', 'Geplex_Dac', 'PvArea', 'ErtKwP_K', 'ErtKwP_KA', 'ErtKwhaK', 'ErtKwhaKA', 'PercentMs', 'PercentMsA', 'Schatten', 'SchattenA', 'CO2Savings', 'Yield', 'ModuleCoun', 'Irradiatio', 'Area3D', 'GEMEINDE_N', 'LANGNAME', 'KREIS_NR', 'KREIS', 'ElevationS', 'JAHR', 'HERKUNFT', 'Shape_Leng', 'Shape_Area', 'geometry']
+
+
+--- Solarpotenziale_Dachseiten_LK_Breisgau_Hochschwarzwald.shp ---
+File Name: Solarpotenziale_Dachseiten_LK_Breisgau_Hochschwarzwald.shp
+Path: Solarpotenzial/8315_Solarpotenzial_Dachseiten_Breisgau_Hochschwarzwald/Solarpotenziale_Dachseiten_LK_Breisgau_Hochschwarzwald.shp
+Number of features: 278546
+Columns: ['OBJECTID', 'BuildingID', 'RoofID', 'Slope', 'Aspect', 'RoofType', 'Power', 'Eignung', 'Aufstd', 'Geplex_Dac', 'PvArea', 'ErtKwP_K', 'ErtKwP_KA', 'ErtKwhaK', 'ErtKwhaKA', 'PercentMs', 'PercentMsA', 'Schatten', 'SchattenA', 'CO2Savings', 'Yield', 'ModuleCoun', 'Irradiatio', 'Area3D', 'GEMEINDE_N', 'LANGNAME', 'KREIS_NR', 'KREIS', 'ElevationS', 'JAHR', 'HERKUNFT', 'Shape_Leng', 'Shape_Area', 'geometry']
+
